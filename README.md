@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner SVG / Title -->
-<h1>Hey there, I'm <a href="https://linkedin.com">Karan Thakur</a> 👋</h1>
+<h1>Hey there, I'm <a href="https://linkedin.com">Karan Thakur</a> </h1>
 <p><strong>Geospatial Data Science Student & AI/ML Researcher</strong></p>
 
 <p align="center">
@@ -19,17 +19,17 @@
 
 ---
 
-### 🔭 About Me
+###  About Me
 
-- 🛰️ **Current Focus:** Developing deep learning architectures (Siamese U-Net + Uncertainty quantification) for land-use change detection in Delhi-NCR.
-- 🌊 **Research Collaboration:** Modeling Marine Heatwave Compound Risk using multi-source earth observation datasets.
-- 🧠 **Currently Learning:** Advanced Computer Vision, PyTorch Lightning, Spatial Econometrics, and Cloud-Native ML (AWS/Azure).
-- 💬 **Ask Me About:** Python, Earth Observation, Raster Data Pipelines, GDAL/Rasterio, and PyTorch.
-- 📫 **Contact:** Drop a line at `karan.02566@gmail.com`
+-  **Current Focus:** Developing deep learning architectures (Siamese U-Net + Uncertainty quantification) for land-use change detection in Delhi-NCR.
+-  **Research Collaboration:** Modeling Marine Heatwave Compound Risk using multi-source earth observation datasets.
+-  **Currently Learning:** Advanced Computer Vision, PyTorch Lightning, Spatial Econometrics, and Cloud-Native ML (AWS/Azure).
+-  **Ask Me About:** Python, Earth Observation, Raster Data Pipelines, GDAL/Rasterio, and PyTorch.
+-  **Contact:** Drop a line at `karan.02566@gmail.com`
 
 ---
 
-### 🚀 Featured Research & Projects
+###  Featured Research & Projects
 
 <table>
   <tr>
@@ -91,36 +91,22 @@
 
 ---
 
-### 📊 GitHub Analytics & Activity
+###  GitHub Analytics & Activity
 
 <div align="center">
 
 <!-- Main Stats & Top Languages -->
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=karan02566-prog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Karan's GitHub Stats" />
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan02566-prog&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
 
 <br/><br/>
 
 <!-- Streak Stats & Star / Commit Graphs -->
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=karan02566-prog&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=karan02566-prog&repo=delhi-ncr-satellite-change&theme=tokyonight&hide_border=true" alt="Featured Repo Star Card" />
 
 </div>
 
 ---
 
-### 🐍 Contribution Grid & Snake Animation
-
-<!-- The Contribution Snake Game -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karan02566-prog/karan02566-prog/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karan02566-prog/karan02566-prog/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/karan02566-prog/karan02566-prog/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-### 📈 Activity Graph
+###  Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=karan02566-prog&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
